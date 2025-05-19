@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HalakAPI.Controllers.HorgaszokController",
+    "Method": "GetAll",
+    "RelativePath": "Horgaszok/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
